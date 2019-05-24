@@ -1,5 +1,5 @@
 1C-server v8.3.13.1690
-1. Use ./build for image creation or:
+1. Build all images or:
 docker pull ethi0/1c_server
 docker pull ethi0/1c_server_data
 docker pull ethi0/1c_db
